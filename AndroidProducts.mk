@@ -5,10 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fuse_X00TD.mk
+    $(LOCAL_DIR)/lineage_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    fuse_X00TD-user \
-    fuse_X00TD-userdebug \
-    fuse_X00TD-eng
+    lineage_X00TD-user \
+    lineage_X00TD-userdebug \
+    lineage_X00TD-eng
 
